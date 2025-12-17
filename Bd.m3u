@@ -2,4 +2,5 @@
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 http://213.169.39.30:5038
 #EXTM3U
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
 https://bozztv.com/rongo/rongo-RTV/tracks-v2a1/mono.m3u8
