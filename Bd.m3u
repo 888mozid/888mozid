@@ -1,1 +1,3 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+http://213.169.39.30:5038
