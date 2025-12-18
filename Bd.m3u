@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/deepto-tv-logo-71DD610A34-seeklogo.com.png" group-title="Grope Name", Channel Name
 https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
+
+EXTINF:-1 tvg-logo="logon neme" group-title="Grope Name", Channel Name
+https://bozztv.com/rongo/rongo-RTV/tracks-v2a1/mono.m3u8
