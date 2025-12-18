@@ -6,7 +6,7 @@ https://tvsen6.aynaott.com/channel9/index.m3u8?e=1753741202&u=9a031201-22d8-4f7e
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Padmaonline
 https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="BANGLADESHI TV", ATN BANGLA 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="BANGLADESHI TV", ATN BANGLA 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
