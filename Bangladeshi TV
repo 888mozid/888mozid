@@ -42,11 +42,23 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", N TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Movie Name
-mp4/mkv link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", NAGORIK TV
+http://172.16.29.34/auth/hmrhvJ6OBsS2xGWczJKHHtOiXW5tSoIIIpx6aqGV7GQhEPwE7Iad17gLiH5M7t5KQw8r3axepMqmOjMtSbc82DBO1o1lF7tWScnYkBDtP1W-0rMPI7H7qiKyDbosHDg36RGgpHbLHk79UgnDz0xwRd7-D1Ic74NkLQSMg8kLy6qbFep_n7DRWTeAOaaqT9MOF2Bir9nt3j-jYtwCixukGPLCTu79z8C0k6xGQcNLaFk2jFMRf1MSEUSg7RLLmrrczfVYeKQfTpMku5UioQQ6krqp6BpDhyUN2fs5zjjWXStp3nGIZMzNL95DiJKIpwY8yJ37Af8ctf4RYb71XfZo9E8HA8AVsPW7WvGkKeuTYyGMy_9wrmoxZt8UhbDKwgVnBiKaYcT9fcMmYEclRkD6e9m9z1-byqM-2GCxN3-TZYVDgdY08Dm3b6lJACALzRfHgMuNuaIoyoQGb0kHOB5GJ0SZzeN8vuk8y9AmOyu74_Al2iCyNxOOuMEKp47n_sdOemA73dVuZhm2eBv7Qspr11dtLrUJ9u1zssXF_LhwveZiWTZPzXodyxXhG-lAMEpv2Mf40l6HcUjA0Bzn6yvOnawecLOA2FKzjUQmG_2KhLvYDXoDlqU3rflHF3I-4cWE
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", MOVIE BAGLA 
 http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", EKUSHE ETV
+http://172.16.29.34/auth/NfvoFp4H-Sra9bMiv1MGAIdpmcxh63VPIlJAKEJGlcPPgBzOgWNF3WwGiw5nAeB0slyXBKxvpJoIsS6MI6hj8so9x05WKQnf5QAcDsRSk-5ItgVee4yt8ZyU37tqlcMu8rj2Z_aeCHvDgZ4WNDaavZxHDu0pH8ROJ28oPfx7hn5ebJbmHlSq5-yEEG_ClV9KlDRXJpYjgMLJiceKv8Cn5DOFtoI-b1JVP_l0Y0cASeqWuS_nRvAtdssT3zTXzuhUgnZwAyvUqZOuNKGYDDOcABdnk_VW2Poy1ZFJmRa9LRpjPpcvk_6QCHiAVh1ekFQVpjQZ2XFPCeN_vMpy5bGYN9guulIYeClNh3qTxdGL4HsBSjgPSq-cNidmxUmxFapE05n8zPqCDwzYxEb_SFGJsPsembNb-nkC-9vmWHaQNN6vRi0yeTuCmVriPkYlvcd9zTSyTdjbE4H1bY4rbnlr9AhjjFAtcG3E57X8_WST-SEIsiPGLuGslAbZ96bi3FKqqpQteVf_Njk47kYREN5xV5Ik8j1xxg_gPE80BYNwc_8ADlq7sWCODvkPN1DvkRZBziK848y9iwI61CraOiggJCcAnLz1HJH-CUHTaN7ckf-Vo4jNuQbWposhubQIVPkj
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Movie Name
+mp4/mkv link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Movie Name
+mp4/mkv link
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Movie Name
+mp4/mkv link
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Movie Name
 mp4/mkv link
