@@ -31,7 +31,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", BANGLA VISION
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", ME TV
 https://iptvbd.live/metv1080/1080.m3u8
@@ -54,11 +54,11 @@ http://172.16.29.34/auth/NfvoFp4H-Sra9bMiv1MGAIdpmcxh63VPIlJAKEJGlcPPgBzOgWNF3Ww
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", TIME TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Movie Name
-mp4/mkv link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", SOMOY TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Movie Name
-mp4/mkv link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", ANT NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Movie Name
-http://172.16.29.34/auth/hmrhvJ6OBsS2xGWczJKHHtOiXW5tSoIIIpx6aqGV7GQhEPwE7Iad17gLiH5M7t5KQw8r3axepMqmOjMtSbc82DBO1o1lF7tWScnYkBDtP1W-0rMPI7H7qiKyDbosHDg36RGgpHbLHk79UgnDz0xwRd7-D1Ic74NkLQSMg8kLy6qbFep_n7DRWTeAOaaqT9MOF2Bir9nt3j-jYtwCixukGPLCTu79z8C0k6xGQcNLaFk2jFMRf1MSEUSg7RLLmrrczfVYeKQfTpMku5UioQQ6krqp6BpDhyUN2fs5zjjWXStp3nGIZMzNL95DiJKIpwY8yJ37Af8ctf4RYb71XfZo9E8HA8AVsPW7WvGkKeuTYyGMy_9wrmoxZt8UhbDKwgVnBiKaYcT9fcMmYEclRkD6e7leRY_rcOVSRLNFoegsvYz0wrj3we3Ku54WQY5qtC73eKYWkjDyYRqMeUkxxhnyVj1ZBwzYW6rhaNZHneZqBxOGuaW8f3bi2yFPyqIfJRMhvhyp1_84MQVJQzur4sdlsf_pk5EsN_NsURlWOWYA5DY2O9fTWSqjLW1gR-6egdzo2f6Iu_zPpQF_K7HFuVWqET9Dd_3V_sqtTgojvlXFkWbMdtHSE9xjQHCv7tXsysjW
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", B TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
