@@ -10,7 +10,8 @@ https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 https://tvsen6.aynaott.com/banglatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png" group-title="BANGLADESHI TV", ATN BANGLA 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", DURONTO TV 📺 MOZID AHMED 
+https://tvsen5.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="BANGLADESHI TV", ENTER 10 BANGLA 
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
@@ -50,10 +51,11 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", MOVIE BAGLA 
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", EKUSHE ETV
-http://172.16.29.34/auth/NfvoFp4H-Sra9bMiv1MGAIdpmcxh63VPIlJAKEJGlcPPgBzOgWNF3WwGiw5nAeB0slyXBKxvpJoIsS6MI6hj8so9x05WKQnf5QAcDsRSk-5ItgVee4yt8ZyU37tqlcMu8rj2Z_aeCHvDgZ4WNDaavZxHDu0pH8ROJ28oPfx7hn5ebJbmHlSq5-yEEG_ClV9KlDRXJpYjgMLJiceKv8Cn5DOFtoI-b1JVP_l0Y0cASeqWuS_nRvAtdssT3zTXzuhUgnZwAyvUqZOuNKGYDDOcABdnk_VW2Poy1ZFJmRa9LRpjPpcvk_6QCHiAVh1ekFQVpjQZ2XFPCeN_vMpy5bGYN9guulIYeClNh3qTxdGL4HsBSjgPSq-cNidmxUmxFapE05n8zPqCDwzYxEb_SFGJsPsembNb-nkC-9vmWHaQNN6vRi0yeTuCmVriPkYlvcd9zTSyTdjbE4H1bY4rbnlr9AhjjFAtcG3E57X8_WST-SEIsiPGLuGslAbZ96bi3FKqqpQteVf_Njk47kYREN5xV5Ik8j1xxg_gPE80BYNwc_8ADlq7sWCODvkPN1DvkRZBziK848y9iwI61CraOiggJCcAnLz1HJH-CUHTaN7ckf-Vo4jNuQbWposhubQIVPkj
+https://tvsen6.aynaott.com/etv/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", TIME TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", GLOBAL TV 📺 MOZID AHMED 
+https://tvsen6.aynaott.com/globaltvhd/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", SOMOY TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
