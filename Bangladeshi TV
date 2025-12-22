@@ -140,10 +140,22 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", PROBASHI TV 📺 MOZID AHMED 
 http://158.69.24.53:8080/probashi_tv/index.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", TARA TV 📺 MOZID AHMED ✔️
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", TARA CINEMA TV 📺 MOZID AHMED ✔️
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", TEN PRIME TV 📺 MOZID AHMED ✔️
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/tenprime.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", ZEE BANGLA CINEMA 📺 MOZID AHMED 
+https://ayna-ott.sm-monirulislam-exp.workers.dev/ZeeBanglaCinema/index.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", ZB CARTUN TV 📺 MOZID AHMED ✔️
+https://server.zillarbarta.com/zbcatun/video.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", TORONI TV 📺 MOZID AHMED ✔️
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/toronitv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", TARA TV 📺 MOZID AHMED ✔️
+https://legitpro.co.in/taratv/taratv/index.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Movie Name
+mp4/mkv link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Movie Name
+mp4/mkv link
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Movie Name
 mp4/mkv link
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Movie Name
