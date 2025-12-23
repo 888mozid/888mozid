@@ -174,9 +174,9 @@ https://cdn-4.pishow.tv/live/1473/1473_2.m3u8
 https://padmaonline.duckdns.org:8088/SamiTV/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", BENGALI TV 📡 MOZID AHMED 
 https://tplay.live/originals/bengali-beats/index.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Movie Name
-mp4/mkv link
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Movie Name
-mp4/mkv link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", AZAN TV 📡 MOZID AHMED 
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", JHANKAR TV 📡 MOZID AHMED 
+https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Movie Name
 mp4/mkv link
