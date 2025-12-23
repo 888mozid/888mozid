@@ -57,7 +57,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", MOVIE BAGLA 
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", EKUSHE ETV
-https://tvsen6.aynaott.com/etv/index.m3u8
+https://tvsen6.aynaott.com/etv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", TIME TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/timetvusa.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", GLOBAL TV 📺 MOZID AHMED 
@@ -192,3 +192,13 @@ http://194.76.0.163///live/8zpo3GsVY7/beneficial2concern/3753.ts?token=ShJcU0BbQ
 https://tvsen6.aynaott.com/GreenTvHD/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", B TV CTG 📡 MOZID AHMED ✔️
 https://tvsen6.aynaott.com/btvctg/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Movie Name
+https://vods2.aynascope.net/gseriesDrama/index.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", MADANI TV 💦 MOZID AHMED 💦
+https://tvsen7.aynaott.com/MadaniTV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Movie Name
+mp4/mkv link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Movie Name
+mp4/mkv link
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Movie Name
+mp4/mkv link
