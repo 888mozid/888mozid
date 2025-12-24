@@ -16,7 +16,7 @@ https://tvsen5.aynaott.com/durontotv/index.m3u8
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", MOHONA TV 📺 MOZID AHMED 
 https://tvsen6.aynaott.com/mohonatv/index.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", MAASRANGA TV
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png" group-title="Grope Name", MAASRANGA TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", MY TV 📺 MOZID AHMED 
 https://tvsen6.aynaott.com/mytv/index.m3u8
@@ -84,7 +84,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", G TV MOZID AHMED 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Gtvhd.png" group-title="Grope Name", G TV MOZID AHMED 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", NAGORIK TV 📺 MOZID AHMED 
 http://116.204.149.16/nagorik/index.m3u8
@@ -171,7 +171,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 http://172.16.29.34/hls/Fo6Nkf3LsjWb0-nMoUJMmtMpPOx-_ibzUKENl8ygOvtVjFn3HM9yM0BVqF7I0QfPxaYxcaXoOaK8wSdhO9_ZGMaJgwJt0m_hL25erw2P_s1_P5C5Cqm5QwxAo22fFl8W
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", ZB MUSIC TV 📡 MOZID AHMED 
 https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", KHUSHBOO TV 📡 MOZID AHMED ✔️
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Khushboo_Bangla_logo_2017.png" group-title="Grope Name", KHUSHBOO TV 📡 MOZID AHMED ✔️
 https://tvsen6.aynaott.com/Khushboo/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", SAMI TV 📡 MOZID AHMED 
 https://padmaonline.duckdns.org:8088/SamiTV/index.m3u8
