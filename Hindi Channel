@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", ZEE CINEMA 💦 MOZID AHMED 💦
+http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a06w
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link#EXTM3U
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Channel Name
+m3u8 link
