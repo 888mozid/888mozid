@@ -1,7 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE", ZEE CINEMA 💦 MOZID AHMED 💦
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", ZEE CINEMA 💦 MOZID AHMED 💦
 http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a06w
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE", STAR GOLD 💦 MOZID AHMED 💦
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", STAR GOLD 💦 MOZID AHMED 💦
 http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a00f
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE", STAR GOLD SELECT 💦 MOZID AHMED 😁💦
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", STAR GOLD SELECT 💦 MOZID AHMED 😁💦
 http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a01s
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", B4U KADAK 💦 MOZID AHMED 
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", 9XM MUSIC 🎵 💦 MOZID AHMED 💦
+https://d282a7rzpbl0nj.cloudfront.net/9XM/master.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", 9X JALWA 🎵 💦 MOZID AHMED 💦
+https://d282a7rzpbl0nj.cloudfront.net/9xJalwa/master.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", ZOOM 🎵 💦 MOZID AHMED 💦
+https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", B4U MUSIC 🎵 💦 MOZID AHMED 💦
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", BALLEBALLE TV 🎵 MOZID AHMED 🎶
+https://mcncdndigital.com/balleballetv/index.m3u8
