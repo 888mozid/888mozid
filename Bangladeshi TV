@@ -155,7 +155,7 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", TORONI TV 📺 MOZID AHMED ✔️
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/toronitv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", TARA TV 📡 MOZID AHMED ✔️
+#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23215/tara-tv/logo_20250401_184429_70.png" group-title="Grope Name", TARA TV 📡 MOZID AHMED ✔️
 https://legitpro.co.in/taratv/taratv/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", RUPOSHI BANGLA TV 📡 MOZID AHMED ✔️
 https://cdn-4.pishow.tv/live/1039/1039_2.m3u8
@@ -171,8 +171,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Movie Name
 http://172.16.29.34/hls/Fo6Nkf3LsjWb0-nMoUJMmtMpPOx-_ibzUKENl8ygOvtVjFn3HM9yM0BVqF7I0QfPxaYxcaXoOaK8wSdhO9_ZGMaJgwJt0m_hL25erw2P_s1_P5C5Cqm5QwxAo22fFl8W
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", ZB MUSIC TV 📡 MOZID AHMED 
-https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/Khushboo_Bangla_logo_2017.png" group-title="Grope Name", KHUSHBOO TV 📡 MOZID AHMED ✔️
 https://tvsen6.aynaott.com/Khushboo/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", SAMI TV 📡 MOZID AHMED 
@@ -189,8 +187,6 @@ http://188.241.218.163///live/8zpo3GsVY7/beneficial2concern/98872.ts?token=ShJcU
 https://xe4.ostv.info/live/8zpo3GsVY7/beneficial2concern/271038.ts?token=ShJcU0BbQQNHWgUJBlENWl0EVVYDAwEDVVFbUQBUVwdUBVdTB1VbCFQbGBpEF0dcWF1vWQIXXlMGU1IEXUgRR0JVRm1aV0EDRwgBCwJWAAobHBJED1gBQwtTVQFTUAsGBggCHhFDCl1HAxYJB1AMCw0FEhxEUBwVVBAMVgk7V1dHWVdXEQkNTAlVGBpYDWpdXF1RXgIXXkMBQE4VDBdDEAteQV5fH0FbDE1GWUMGFwMbAQQAVhdIQ1INF1kRFkoQCxJ2dhEfQVwdTVFWRApaVxsKEkQVF0hDWBE9RQAXR0BUUVlXQRFZG1UbGBpaAk1mWl9eXgNWEAheDBEVX0YCEB0SWV1dWhdWF2ZEUVNBDxsBBQgCVwBGHA==
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", JALSHA MOVE TV 📡 MOZID AHMED ✔️
 http://185.190.25.93:49893/ghLs2zdZSnFvSS000017e3272c4c927e31209aa7ea627040966d/index.m3u8?token=0671a39fb7bd3237f996337bf1c0ddca
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", SANGEET BANGLA 📡 MOZID AHMED 
-http://188.241.218.163///live/8zpo3GsVY7/beneficial2concern/405.ts?token=ShJcU0BbQQNHXwwJUgcAXVgBVAZXAAJRUwAGVVFcUgYFAlAAAVBWWlYbGBpEF0dcWF1vWQIXXlUBV04VEBdWQG5ZUBAJEVIMVgwBDQRBGRtNWV1VRA9VVgdUVg9QVgUDHRJEW1cRWRtUCwMAAlYNGxUSVUgSUBYPUA49UwASWlFUEg5cRl8PFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBAAKCBIcRFYLFF8WEE5HXhFwdRIYEFZLF1wLSl1XWUEPG01DEhxEXBc+QwcRQxcBUl9UQhYIEQNBFUdUVUBoAFpXV1VTRA9aChITWEAGR0gRX15eXUZcQTxJDF0WAhVSBQEBABJN
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", SUN BANGLA TV 📡 MOZID AHMED ✔️
 http://194.76.0.163///live/8zpo3GsVY7/beneficial2concern/3753.ts?token=ShJcU0BbQQNHDQZbBQABXAoIUgIHBgJXCFJVDgFdVQRSVQ1TAAVXCFMbGBpEF0dcWF1vWQIXXlIGV1EbRxFAV0NvXVYRCUEIUAoBDQJQFxUbRFldAxdeUAZUVANdUQAFBhwWQlpXQQNHDwIJB1EHGxUSVUgSUBYPUA49UwASWlFUEg5cRl8PFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBwAOBhIcRFYLFF8WEE5HXhFwdRIYEFZLF1wLSl1XWUEPG01DEhxEXBc+QwcRQxcBUl9UQhYIEQNBFUdUVUBoAFpXV1VTRA9aChITWEAGR0gRX15eXUZcQTxJDF0WAhVUAgEABwUSGw==
 #EXTINF:-1 tvg-logo="https://greentvbangla.com/wp-content/uploads/2023/03/lazy_tv0.jpg.webp" group-title="Grope Name", GREEN TV 📡 MOZID AHMED ✔️
@@ -222,5 +218,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/6/68/Dhoom_Music_Bangla_logo_%282014%29.png" group-title=MUSIC 🎶", DHOOM MUSIC 🎶 MOZID AHMED 🎶
 https://cdn-1.pishow.tv/live/1456/master.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎶", MUSIC BANGLA 🎶 MOZID AHMED 🎶
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Music_Bangla_new.jpeg" group-title="MUSIC 🎶", MUSIC BANGLA 🎶 MOZID AHMED 🎶
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla2025.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sangeet_Bangla_logo_2006.png" group-title="MUSIC 🎶", SANGEET BANGLA 🎶 MOZID AHMED 🎶
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/userupload/32075529/file/original-52b78ab450ff3dd796b6b99265e319f4.jpg" group-title="MUSIC 🎶", ZB MUSIC 🎶 MOZID AHMED 🎶
+https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
