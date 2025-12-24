@@ -57,7 +57,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", THE CHANNEL
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/thechanneltv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", MOVIE BAGLA 
+#EXTINF:-1 tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png" group-title="Grope Name", MOVIE BAGLA 
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", EKUSHE ETV
 https://tvsen6.aynaott.com/etv/tracks-v1a1/mono.ts.m3u8
@@ -149,6 +149,8 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/tenprime.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", ZEE BANGLA CINEMA 📺 MOZID AHMED 
 https://ayna-ott.sm-monirulislam-exp.workers.dev/ZeeBanglaCinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/userupload/32075529/file/original-52b78ab450ff3dd796b6b99265e319f4.jpg" group-title="Grope Name", ZB CINEMA 💦 MOZID AHMED 💦
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", ZB CARTUN TV 📺 MOZID AHMED ✔️
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", TORONI TV 📺 MOZID AHMED ✔️
@@ -213,5 +215,6 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8?sid=NhX65HAZnEqutuIeqiitng
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shadinbd1.stream/live-orgin/shadinbd1.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", DEEPTO TV 💦 MOZID AHMED 💦
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", Movie Name
-mp4/mkv link
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-30dX2gAbWBA/XrWrVwyUkSI/AAAAAAAAAnE/CIy_3loKQ34fED9Azwynih_T73E8is9jQCLcBGAsYHQ/w680/ATNMusic.png" group-title="MUSIC 🎶", ATN MUSIC 🎶 MOZID AHMED 🎶
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
