@@ -5,7 +5,9 @@ http://119.152.240.15:8000/play/a0h7/index.m3u8
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="ENGLISH MOVIE 🎥", & XPLOR HD
 http://66.102.120.18:8000/play/a012/index.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="MOVIE 🎥", COLORS CINEPLEX HD 💦 MOZID AHMED 💦
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", BHOJPURI CINEMA 💦 MOZID AHMED 💦
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", COLORS CINEPLEX HD 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/ColorsCineplexHD.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", COLORS HD 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/ColorsHD.m3u8
@@ -26,9 +28,9 @@ http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a077
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", STAR GOLD SELECT 💦 MOZID AHMED 😁💦
 http://172.16.29.2:8090/hls/StarGoldHD.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", STAR GOLD ROMANCE 💦 MOZID AHMED 💦
-http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a00r
+http://119.152.240.15:8000/play/a0ix/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="ENGLISH MOVIE", STAR GLOD THRILLS 💦 MOZID AHMED 💦
-http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a00c
+http://119.152.240.15:8000/play/a0iy/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="ENGLISH MOVIE", STAR MOVIES HD 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/StarMoviesHD.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", STAR MOVIES SEL HD 💦 MOZID AHMED 💦
@@ -37,6 +39,8 @@ http://172.16.29.34/auth/MrDCFe8gTOqHWW3VLlYfO1bnkPhqgnwbUtIfCMDTNfCfWaRf0QB0pr1
 http://172.16.29.2:8090/hls/StarPlusHD.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", SONY MAX HD 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/sonymaxhd.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVE 🎥", SONY MAX 💦 MOZID AHMED 💦
+http://66.102.120.18:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="ENGLISH MOVIE", SONY PIX HD 💦 MOZID AHMED 💦
 http://172.16.29.34/auth/K8NTULaqFvcS9YsB1SyEAeKMd3ebGVdrM2AF1LoAtsimj7gwtcHcdFCZAipxLc79JhZjdOE0gRRw7kqppjOeB0D4KBiPFwxHzArpiSqoLbo-3a4Tk7ucYKivAptAxydzTOIh-tpQuAlkUeHIDHb1CyvlO9jiXJXRWOoepMVgJ-YE8bsLpMYrjpkIIXOqEOOLcz8NZ8czHDs1G5NzCR3k-0c5pLSxZJs01SO34ZhPRHl1qOO-L1kCy7rZquZyMRzVhpAakGjJSUqKMlB2cMAvX38XKvu_3HsEwWFbbrrgB0PQWnX-cDdzI22oVHY7m2U5ObFGU3fuDgH3QeuKO3zyDK9G5K2UOk4Us9MN6Oe6_xSajxvIaUpoPVlBmh0UTjQYEEshDBDyPCN9FhLE9tavSSmjH4Ps5LB4pn2-TCid7i6WPeDjdIyOAvV8tZvCteqCv-ATdmYFt_Dc_ukrtnuY7zMCcdM3qkgR_-YalzKUVV04r4Qu6N-QhEp6UD8_KlzjiLQeCDHc0iaClvw6paIW0VLFAaHyRCKdE26SHd1hPAfAHkXrDOL73FdyxNx8k3meV1Qpl7QZY-PSTcpIHgzJ4RpbRbTtedzTp3ChoY2opcChr73j8Y-BcTalNPl4Jg0c
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", SONY HD 💦 MOZID AHMED 
@@ -50,12 +54,18 @@ https://d282a7rzpbl0nj.cloudfront.net/9XM/master.m3u8
 https://d282a7rzpbl0nj.cloudfront.net/9xJalwa/master.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", ZOOM 🎵 💦 MOZID AHMED 💦
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", ZOOM MUSIC 🎵 MOZID AHMED 🎶
+#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", ZOOM MUSIC 🎵 MOZID AHMED 🎶
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", B4U MUSIC 🎵 💦 MOZID AHMED 💦
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", BALLEBALLE TV 🎵 MOZID AHMED 🎶
+#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", BALLEBALLE TV 🎵 MOZID AHMED 🎶
 https://mcncdndigital.com/balleballetv/index.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", JOO MUSIC 🎶 MOZID AHMED 🎶
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", SAGA MUSIC 🎶 MOZID AHMED 🎶
+https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎶", V2 BEAT 🎶 MOZID AHMED 🎶
+https://de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", ANIMAL PLANET HD 💦 MOZID AHMED 
 http://172.16.29.2:8090/hls/AnimalPlanetHD.m3u8
@@ -65,6 +75,8 @@ http://172.16.29.2:8090/hls/CartoonNetworkHD.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope SPORTS ", EUROSPORT HD 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/eurosportshd.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", PTV SPORTS HD 💦 MOZID AHMED 💦
+https://tvsen5.aynaott.com/PtvSports/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", STAR SPORTS HD 1 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/StarSports1HD.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", STAR SPORTS HD 2 💦 MOZID AHMED 💦
