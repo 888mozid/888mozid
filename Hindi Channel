@@ -5,6 +5,10 @@ http://119.152.240.15:8000/play/a0h7/index.m3u8
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="ENGLISH MOVIE 🎥", & XPLOR HD
 http://66.102.120.18:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="MOVIE 🎥", COLORS CINEPLEX HD 💦 MOZID AHMED 💦
+http://172.16.29.2:8090/hls/ColorsCineplexHD.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", COLORS HD 💦 MOZID AHMED 💦
+http://172.16.29.2:8090/hls/ColorsHD.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", ZEE CINEMA 💦 MOZID AHMED 💦
 http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a06w
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", ZEE CAFE HD 💦 MOZID AHMED 💦
@@ -20,19 +24,23 @@ http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a00g
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE", STAR GOLD 2 HD 💦 MOZID AHMED 💦
 http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a077
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", STAR GOLD SELECT 💦 MOZID AHMED 😁💦
-http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a01s
+http://172.16.29.2:8090/hls/StarGoldHD.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", STAR GOLD ROMANCE 💦 MOZID AHMED 💦
 http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a00r
 #EXTINF:-1 tvg-logo="Logo Link" group-title="ENGLISH MOVIE", STAR GLOD THRILLS 💦 MOZID AHMED 💦
 http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a00c
 #EXTINF:-1 tvg-logo="Logo Link" group-title="ENGLISH MOVIE", STAR MOVIES HD 💦 MOZID AHMED 💦
-http://172.16.29.34/auth/h3W4X6WtMZ8o8O7b-I5CxggTHNvnWTU_XPUNFdg_6duQXs1y8XRt-G12ZtVlL11N0XPY8NzYH8Z_f_1hayNKlLagIWbrqwZUx5U5m8kjMSuhuiBzFIkq4w-C9dCX1-4NMCxDG5S5XMl0YM1U5dxf9gP4cYg3ECs0WJF7DJvMhxqYkNEwYJupP4c0t5FXOeVuFM9ScDdb5RW34g3-PqbgDB26qbhaSGyizghgPUl9t6NMM1aXfyCLyDZ7zo-jHB0HEvlXEtETSIiyGQHOyjhf0XIqvvPDbYzqjL5rxuV1KQmj5BULW3jlJ7kHutktegw24AiNooMd6vJkpLHPlVJxkI0vhV8yoypx-i_nh6vTYwchqITeYdYn9gV--AM9a9LCVBH1VtQyS8g6gMBAivxMjOO3epCwAyz1qS4yB96tAnAWMHW81C0jy5FPicuHpSbF-yVEKF6HcLJzMQBQX0cNBS5eOmp59tqN9DlRWunFDSOTMrn4VUSJ4X4yZiMS86247Df1rrFOC-OSopo2tOZrwXtu0eSIcUgvdubr2a5_eR4PYqfDbk2LsjIxmx0OE6ZIFmfU72qxBU47gcXV-2LMSRAmVA8O929byzqJ5lbzZAlbpNBXhKtTgFLthptzT_xY
+http://172.16.29.2:8090/hls/StarMoviesHD.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", STAR MOVIES SEL HD 💦 MOZID AHMED 💦
 http://172.16.29.34/auth/MrDCFe8gTOqHWW3VLlYfO1bnkPhqgnwbUtIfCMDTNfCfWaRf0QB0pr1wd94-6ktyJK1Vli_gqWEkRlkJO17AA5WvDmIwVv8khR--K5_9IPKAlU3eJg8wpzdQchyiY5ioteQM_zO_KldTdVHc8JDLGcFSrdjjAaHCyyJfpHaF9Wb7DFE7QiDU2zol7wENx2xpKhQjSoxb97AvmS6dgPXZ8wUVIovIsxgel1AHR8TvOnUQmmI4Nu3HxUT4LDI3BoxZPyhblMnQNiUqvsXk3gCanDVOtPm9nn7l4O2TOW9N5HCHgEt1qBvXTq5MStLBxkm_zATJX9sAy84RHAudx38Q7eqhnqS5M9rHHNQe8f_WA-dVQvgqgkRyzb6ATS358te-2ee04BZQGc0SwkeseTBnezIhibLZvV5oeDt7BFKECik9MGO2xTHUDUP9_MdbZIc7Qv2fpZ07dabF_rSFsLjG5f8ilFsLF6G5wGo9M6GbV3LRw1TqlQirSw5gltqbyaRb1jmU7UbbY8eu8uK-bTWcbgp5dx3WoS53iKJWwNTDxMQVksz_1LL-dOl0prNaHBBhg759M3nu2UHFzrFhdSl6g7mf0R6Xa48miZ5wodlEtoRmDdYzF2OfBPAmoayzECB7
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", SONY MAIX HD 💦 MOZID AHMED 💦
-http://172.16.29.34/auth/rE7AdH3hsfV3Rnf_-kFTjwDettyCh2ni9R1krgBPz4gJwHQBZ24TLrqkMQE4Gi0Wp8TvZd8T25JQgOCOKaj7bjQYDc8nE84v1NpgjvqIQw7vQ7drSrAB0ZLecFXMLACZ7ecX1vsIiGJDcuNHQtbkkHyYjnyVIpWBmogisQfmI7NGxmUHRJ0kowKxlvXMmJbKrkRRUoDCpfRlH_ioQsTWYXmfiFZkhk04yyjevOCmmgw2ektERhAPQNdibKrPn6jbZuTwqmpibunZMIHrlzT3hIsxQE5uwMqg2sm1ouSWQ0P6IGOVJs5o3skcyPOFGvyN_etZcNgwQk0MIfVy5dmpT96EzyB_yv3QvGMJOAWYd8f8mefuiHmJQi52ynJwXx0rfVmc0nWMrR6oBf1D_UZ1xt09zKDf4tPjFRFHSsvcEoJHhf9H-Mo7VW8Y0VcrwshAgVjmca0rXLK8sQPLAno0TQh45xjjHyHCHoFBM8OqDNjNdAqeC-0J4HBoaeeugJuQxxFaMmho7HJG4Gn0BQvthW2GmPr4t8-nAP21EPuBwfua9mYkKmq95acGVZtsVJ7ad5x34HhI-TBjW10CVZ04D9tbQUt_FjcqFwGpY2Ji_zsZalMsm4ZqR806KmxxAoep
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", STAR PLUS HD 💦 MOZID AHMED 💦
+http://172.16.29.2:8090/hls/StarPlusHD.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", SONY MAX HD 💦 MOZID AHMED 💦
+http://172.16.29.2:8090/hls/sonymaxhd.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="ENGLISH MOVIE", SONY PIX HD 💦 MOZID AHMED 💦
 http://172.16.29.34/auth/K8NTULaqFvcS9YsB1SyEAeKMd3ebGVdrM2AF1LoAtsimj7gwtcHcdFCZAipxLc79JhZjdOE0gRRw7kqppjOeB0D4KBiPFwxHzArpiSqoLbo-3a4Tk7ucYKivAptAxydzTOIh-tpQuAlkUeHIDHb1CyvlO9jiXJXRWOoepMVgJ-YE8bsLpMYrjpkIIXOqEOOLcz8NZ8czHDs1G5NzCR3k-0c5pLSxZJs01SO34ZhPRHl1qOO-L1kCy7rZquZyMRzVhpAakGjJSUqKMlB2cMAvX38XKvu_3HsEwWFbbrrgB0PQWnX-cDdzI22oVHY7m2U5ObFGU3fuDgH3QeuKO3zyDK9G5K2UOk4Us9MN6Oe6_xSajxvIaUpoPVlBmh0UTjQYEEshDBDyPCN9FhLE9tavSSmjH4Ps5LB4pn2-TCid7i6WPeDjdIyOAvV8tZvCteqCv-ATdmYFt_Dc_ukrtnuY7zMCcdM3qkgR_-YalzKUVV04r4Qu6N-QhEp6UD8_KlzjiLQeCDHc0iaClvw6paIW0VLFAaHyRCKdE26SHd1hPAfAHkXrDOL73FdyxNx8k3meV1Qpl7QZY-PSTcpIHgzJ4RpbRbTtedzTp3ChoY2opcChr73j8Y-BcTalNPl4Jg0c
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", SONY HD 💦 MOZID AHMED 
+http://172.16.29.2:8090/hls/SonyHD.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", B4U KADAK 💦 MOZID AHMED 
 https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 
@@ -50,4 +58,22 @@ https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 https://mcncdndigital.com/balleballetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", ANIMAL PLANET HD 💦 MOZID AHMED 
-https://allottplay.com/tv/toffee/live.php?id=animal_planet_hd&e=.m3u8
+http://172.16.29.2:8090/hls/AnimalPlanetHD.m3u8
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", CARTOON NETWORK HD 💦 MOZID AHMED 💦
+http://172.16.29.2:8090/hls/CartoonNetworkHD.m3u8
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope SPORTS ", EUROSPORT HD 💦 MOZID AHMED 💦
+http://172.16.29.2:8090/hls/eurosportshd.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", STAR SPORTS HD 1 💦 MOZID AHMED 💦
+http://172.16.29.2:8090/hls/StarSports1HD.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", STAR SPORTS HD 2 💦 MOZID AHMED 💦
+http://172.16.29.2:8090/hls/StarSports2HD.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", SPORTS SELECT 1 HD 💦 MOZID AHMED 💦
+http://172.16.29.2:8090/hls/StarSportsSelect1HD.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS", SONY TEN 2 HD 💦 MOZID AHMED 💦
+http://172.16.29.2:8090/hls/SonyTen2hd.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS", SONY TEN 5 HD 💦 MOZID AHMED 💦
+http://172.16.29.2:8090/hls/SonyTen5HD.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS", T SPORTS HD 💦 MOZID AHMED 💦
+http://172.16.29.2:8090/hls/tsportshd.m3u8
