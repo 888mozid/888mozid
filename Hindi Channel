@@ -39,6 +39,8 @@ http://172.16.29.2:8090/hls/StarGoldHD.m3u8
 http://119.152.240.15:8000/play/a0ix/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="ENGLISH MOVIE", STAR GLOD THRILLS 💦 MOZID AHMED 💦
 http://119.152.240.15:8000/play/a0iy/index.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="ENGLISH MOVIE", LOTUS 💦 MOZID AHMED 💦
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/lotusmacautv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="ENGLISH MOVIE", STAR MOVIES HD 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/StarMoviesHD.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", STAR MOVIES SEL HD 💦 MOZID AHMED 💦
@@ -98,6 +100,8 @@ https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", ANIMAL PLANET HD 💦 MOZID AHMED 
 http://172.16.29.2:8090/hls/AnimalPlanetHD.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", RED BULL TV 💦 MOZID AHMED 💦
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", CARTOON NETWORK HD 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/CartoonNetworkHD.m3u8
@@ -106,6 +110,8 @@ http://172.16.29.2:8090/hls/CartoonNetworkHD.m3u8
 http://172.16.29.2:8090/hls/eurosportshd.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", PTV SPORTS HD 💦 MOZID AHMED 💦
 https://tvsen5.aynaott.com/PtvSports/index.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", RTA TV  💦 MOZID AHMED 💦
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", STAR SPORTS HD 1 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/StarSports1HD.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", STAR SPORTS HD 2 💦 MOZID AHMED 💦
