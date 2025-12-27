@@ -54,6 +54,9 @@ http://172.16.29.34/auth/K8NTULaqFvcS9YsB1SyEAeKMd3ebGVdrM2AF1LoAtsimj7gwtcHcdFC
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", SONY HD 💦 MOZID AHMED 
 http://172.16.29.2:8090/hls/SonyHD.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", SANGEET BHOJPURI 🎶 MOZID AHMED 🎶
+https://cdn-4.pishow.tv/live/1293/master.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", SANGEET MARATI 🎶 MOZID AHMED 🎶
+https://cdn-3.pishow.tv/live/1229/master.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", 9XM MUSIC 🎶 MOZID AHMED 🎶
 https://d282a7rzpbl0nj.cloudfront.net/9XM/master.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", 9X JALWA 🎶 MOZID AHMED 🎶
@@ -67,7 +70,7 @@ https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", BALLEBALLE TV 🎶 MOZID AHMED 🎶
 https://mcncdndigital.com/balleballetv/index.m3u8
 
-https://cdn-4.pishow.tv/live/1293/master.m3u8
+
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", JOO MUSIC 🎶 MOZID AHMED 🎶
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", SHOWBOX 🎶 MOZID AHMED 🎶
