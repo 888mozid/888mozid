@@ -60,6 +60,8 @@ http://172.16.29.2:8090/hls/SonyHD.m3u8
 https://cdn-4.pishow.tv/live/1293/master.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", SANGEET MARATI 🎶 MOZID AHMED 🎶
 https://cdn-3.pishow.tv/live/1229/master.m3u8
+#EXTINF:-1 tvg-logo="https://myco.io/_next/image?url=https%3A%2F%2Fassets.myco.io%2Fpublic%2Fcompressed%2Fthumbnails%2F20250804%2Fmycolive-5jpg-1754315196301.webp&w=3840&q=30" group-title="MUSIC 🎵", 8XM MUSIC 🎶 MOZID AHMED 🎶
+https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", 9XM MUSIC 🎶 MOZID AHMED 🎶
 https://d282a7rzpbl0nj.cloudfront.net/9XM/master.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", 9X JALWA 🎶 MOZID AHMED 🎶
