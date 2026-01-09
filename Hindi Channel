@@ -83,7 +83,7 @@ https://cdn-3.pishow.tv/live/6/master.m3u8
 https://cdn-2.pishow.tv/live/1613/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC 🎵", ZOOM 🎶 MOZID AHMED 🎶
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC 🎵", ZOOM MUSIC 🎶 MOZID AHMED 🎶
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Zoom_2018_logo.jpg" group-title="MUSIC 🎵", ZOOM MUSIC 🎶 MOZID AHMED 🎶
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1 tvg-logo=""https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png" group-title="MUSIC 🎵", B4U MUSIC  🎶 MOZID AHMED 🎶
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
@@ -99,7 +99,7 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://cdn-3.pishow.tv/live/1123/master.m3u8
 #EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/1406677642PITARAMOVIES_TVSETS_TVW_720x960.webp" group-title="MUSIC 🎵", PITAARA 🎶 MOZID AHMED 🎶
 https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", SHOWBOX 🎶 MOZID AHMED 🎶
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/ShowBox_logo.jpeg" group-title="MUSIC 🎵", SHOWBOX 🎶 MOZID AHMED 🎶
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", SAGA MUSIC 🎶 MOZID AHMED 🎶
 https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
@@ -107,7 +107,7 @@ https://amg01412-xiaomiasia-sagamusic-xiaomi-h54ye.amagi.tv/playlist/amg01412-xi
 https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", VISION BEATS 🎶 MOZID AHMED 🎶
 http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", T PALAY 🎶 MOZID AHMED 🎶
+#EXTINF:-1 tvg-logo="https://www.tataplay.com/assets/images/tata-sky-logo1.png" group-title="MUSIC 🎵", T PALAY 🎶 MOZID AHMED 🎶
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", MUSIC T SERIES 🎶 MOZID AHMED 🎶
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
