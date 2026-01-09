@@ -17,6 +17,8 @@ https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 http://172.16.29.2:8090/hls/ColorsCineplexHD.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", COLORS HD 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/ColorsHD.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png" group-title="HINDI MOVIE 🎥", GOLDMINES 💦 MOZID AHMED 💦
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", ZEE CINEMA HD 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/ZeeCinemaHD.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", ZEE CINEMA HD 1900 💦 MOZID AHMED 💦
