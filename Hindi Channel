@@ -26,6 +26,8 @@ http://172.16.29.2:8090/hls/ColorsHD.m3u8
 http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1441441.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Goldmines_old_logo.jpg" group-title="HINDI MOVIE 🎥", GOLDMINES MOVIES 💦 MOZID AHMED 💦
 https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/Goldmines_old_logo.jpg" group-title="HINDI MOVIE 🎥", GOLDMINES MOVIES 2 💦 MOZID AHMED 💦
+https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", ZEE CINEMA HD 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/ZeeCinemaHD.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", ZEE CINEMA HD 1900 💦 MOZID AHMED 💦
@@ -73,25 +75,25 @@ https://cdn-3.pishow.tv/live/1229/master.m3u8
 https://ml-pull-dvc-myco.io:2096/8XM_MUSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC 🎵", 9XM MUSIC 🎶 MOZID AHMED 🎶
 https://d282a7rzpbl0nj.cloudfront.net/9XM/master.m3u8
-#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC 🎵", 9X JALWA 🎶 MOZID AHMED 🎶
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/9x_Jalwa.png" group-title="MUSIC 🎵", 9X JALWA 🎶 MOZID AHMED 🎶
 https://d282a7rzpbl0nj.cloudfront.net/9xJalwa/master.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", 9X JHAKAAS 🎶 MOZID AHMED 🎶
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/18845391659x_JHAKAAS__mob___384x512.webp" group-title="MUSIC 🎵", 9X JHAKAAS 🎶 MOZID AHMED 🎶
 https://cdn-3.pishow.tv/live/6/master.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", 9X TASHAN 🎶 MOZID AHMED 🎶
+#EXTINF:-1 tvg-logo="https://prodcdn1.wavespb.com/shows/poster_url/14041644189x_Tashan__mob___384x512.webp" group-title="MUSIC 🎵", 9X TASHAN 🎶 MOZID AHMED 🎶
 https://cdn-2.pishow.tv/live/1613/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC 🎵", ZOOM 🎶 MOZID AHMED 🎶
 https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/45/7e/3a/457e3aaf075e58defea4d9455fd79004.jpg" group-title="MUSIC 🎵", ZOOM MUSIC 🎶 MOZID AHMED 🎶
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title=https://seeklogo.com/images/B/b4u-music-logo-12FA930444-seeklogo.com.png" group-title="MUSIC 🎵", B4U MUSIC  🎶 MOZID AHMED 🎶
+#EXTINF:-1 tvg-logo=""https://static.wikia.nocookie.net/logopedia/images/d/dc/B4U_Music_logo_2014.png" group-title="MUSIC 🎵", B4U MUSIC  🎶 MOZID AHMED 🎶
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", BALLEBALLE TV 🎶 MOZID AHMED 🎶
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Balle_Balle.jpeg" group-title="MUSIC 🎵", BALLE BALLE TV 🎶 MOZID AHMED 🎶
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", E MUSIC 🎶 MOZID AHMED 🎶
 https://bagnetwork.digivive.com/hlslive/Admin/px09241091/live/E24LiveB/master_1.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", HINDI BITS HD 🎶 MOZID AHMED 🎶
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/HITS-RADIO-2024.svg" group-title="MUSIC 🎵", HINDI BITS HD 🎶 MOZID AHMED 🎶
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", JOO MUSIC 🎶 MOZID AHMED 🎶
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Joo_Music.png" group-title="MUSIC 🎵", JOO MUSIC 🎶 MOZID AHMED 🎶
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", KAPPA MUSIC 🎶 MOZID AHMED 🎶
 https://cdn-3.pishow.tv/live/1123/master.m3u8
