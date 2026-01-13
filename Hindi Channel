@@ -142,13 +142,15 @@ http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8
 https://tvsen5.aynaott.com/PtvSports/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", RTA TV  💦 MOZID AHMED 💦
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", STAR SPORTS HD 1 💦 MOZID AHMED 💦
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="Grope Name", STAR SPORTS HD 1 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/StarSports1HD.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", STAR SPORTS HD 2 💦 MOZID AHMED 💦
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/26.png" group-title="Grope Name", STAR SPORTS HD 2 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/StarSports2HD.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", SPORTS SELECT 1 HD 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/StarSportsSelect1HD.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS", SONY TEN 2 HD 💦 MOZID AHMED 💦
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/25.png" group-title="SPORTS", SONY TEN 1 💦 MOZID AHMED 💦
+https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-1/index.m3u8?token=13b6f031a8bf231cfad7ff3cad2b532eff475948-3812140dba421a9ac2ecde59c2780abe-1768326107-1768322507
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/21.png" group-title="SPORTS", SONY TEN 2 HD 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/SonyTen2hd.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS", SONY TEN 5 HD 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/SonyTen5HD.m3u8
