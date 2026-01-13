@@ -32,9 +32,7 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 https://epiconvh.akamaized.net/live/filamchi/master.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", ZEE CINEMA HD 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/ZeeCinemaHD.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", ZEE CINEMA HD 1900 💦 MOZID AHMED 💦
-http://119.152.240.15:8000/play/a0bf/index.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", ZEE CAFE HD 💦 MOZID AHMED 💦
+#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/69.png" group-title="HINDI MOVIE 🎥", ZEE CAFE HD 💦 MOZID AHMED 💦
 http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a076
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", ZEE ANMOL CINEMA 💦 MOZID AHMED 💦
 http://local.denver1769.fun/D2h/Server4/index.m3u8?id=a01v
@@ -130,14 +128,16 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", CARTOON NETWORK HD 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/CartoonNetworkHD.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", 🥳 NICK 🥳 MOZID AHMED 🥳
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", NICK 🥳 MOZID AHMED 🥳
 http://103.140.254.2:3500/live/545.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", 🥳NICK JR.🥳 MOZID AHMED 🥳
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", NICK JR.🥳 MOZID AHMED 🥳
 http://103.140.254.2:3500/live/544.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", 🥳SONIC 🥳 MOZID AHMED 🥳
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", SONIC 🥳 MOZID AHMED 🥳
 http://103.140.254.2:3500/live/815.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope SPORTS ", EUROSPORT HD 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/eurosportshd.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", FOX 501 HD 💦 MOZID AHMED 💦
+http://537c2e45.edmonst.net/iptv/XTLZN9LAR98K4Z/19146/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", PTV SPORTS HD 💦 MOZID AHMED 💦
 https://tvsen5.aynaott.com/PtvSports/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", RTA TV  💦 MOZID AHMED 💦
