@@ -32,6 +32,8 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 https://epiconvh.akamaized.net/live/filamchi/master.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", MTV HD 💦 MOZID AHMED 💦
 http://103.229.254.25:7001/play/a02s/index.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", MAX MOVIE 💦 MOZID AHMED 💦
+http://103.229.254.25:7001/play/a0et/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", ZEE CINEMA HD 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/ZeeCinemaHD.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/69.png" group-title="HINDI MOVIE 🎥", ZEE CAFE HD 💦 MOZID AHMED 💦
@@ -113,6 +115,8 @@ http://a-edge.bliscdn.com/Visionbeats/tracks-v1a1/mono.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", MUSIC T SERIES 🎶 MOZID AHMED 🎶
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", MASTI MUSIC 🎶 MOZID AHMED 🎶
+http://103.229.254.25:7001/play/a07q/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="MUSIC 🎵", MUSIC INDIA 🎶 MOZID AHMED 🎶
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", SAGA MUSIC 🎶 MOZID AHMED 🎶
