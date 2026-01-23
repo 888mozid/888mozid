@@ -160,5 +160,7 @@ http://172.16.29.2:8090/hls/SonyTen2hd.m3u8
 http://172.16.29.2:8090/hls/SonyTen5HD.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS", T SPORTS HD 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/tsportshd.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS", TAPMAD 💦 MOZID AHMED 💦
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-29514-Enc-Seriea-1.3/master.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS", WILLOW CKET HD 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/willowcrickethd.m3u8
