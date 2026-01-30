@@ -187,6 +187,8 @@ https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
 http://103.140.254.2:3500/live/1657.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png" group-title="Grope Name", JALSHA MOVIE TV 📡 MOZID AHMED ✔️
 http://172.16.29.2:8090/hls/JalshaMoviesHD.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="BANGLA MOVIE 🎥",SANANDA MOVIE 🎥 💦 MOZID AHMED 💦
+http://sananda.bengaldigital.live/Sananda/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png" group-title="Grope Name", SUN BANGLA TV 💦 MOZID AHMED 💦
 https://livetvapp.vercel.app/tracks-v1a1/277416/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906659479.png" group-title="Grope Name", SONY ATTH 💦 MOZID AHMED 💦
