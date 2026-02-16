@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Grope Name", 24/7 BANGLA WAZ 📡 MOZID AHMED ✔️
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/04/azantvs.jpg" group-title="RELIGIOUS", AZAN TV 📡 MOZID AHMED 
@@ -17,6 +18,8 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/0pcBCYds/DEEN-TV.jpg" group-title="Grope Name", DEEN TV
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Religion" tvg-logo="https://i.postimg.cc/nrz1NpPV/Red-Bull-TV.jpg",Salam Bangla
+http://115.187.41.216:8080/hls/salambangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/W42jDsj3/DBC.png" group-title="Grope Name", DBC NEWS 📺 MOZID AHMED 
 http://103.229.254.25:7001/play/a06h/index.m3u8
