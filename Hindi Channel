@@ -139,6 +139,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23146/yrf-music/logo_20240322_175611_70.png" group-title="MUSIC 🎵", YRF MUSIC HD🎶 MOZID AHMED 🎶
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", ANIMAL PLANET HD 💦 MOZID AHMED 
 http://103.229.254.25:7001/play/a0dr/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", RED BULL TV 💦 MOZID AHMED 💦
@@ -155,6 +157,8 @@ http://103.229.254.25:7001/play/a0cq/index.m3u8
 http://103.229.254.25:7001/play/a0di/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V0Nv281L/IMG-20250715-020945-060.jpg" group-title="Grope Name", SONIC 🥳 MOZID AHMED 🥳
 http://103.229.254.25:7001/play/a0dl/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="", A SPORTS 💦 MOZID AHMED 💦
 http://103.229.254.25:7001/play/a087/index.m3u8
@@ -179,7 +183,7 @@ https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-1/index.m3u8?token=1
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/21.png" group-title="SPORTS", SONY TEN 2 HD 💦 MOZID AHMED 💦
 https://xfireflix.my.id/Op.m3u8/?id=167571&e=.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="SPORTS", SONY TEN 5 HD 💦 MOZID AHMED 💦
-http://172.16.29.2:8090/hls/SonyTen5HD.m3u8
+https://xfireflix.my.id/Op.m3u8/?id=167580&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/KQynSXf/T-Sports.jpg" group-title="SPORTS", T SPORTS HD 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/tsportshd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/twsTNb56/TAPMAD.jpg" group-title="SPORTS", TAPMAD 💦 MOZID AHMED 💦
