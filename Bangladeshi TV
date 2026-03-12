@@ -199,7 +199,7 @@ http://172.16.29.2:8090/hls/JalshaMoviesHD.m3u8
 #EXTINF:-1 tvg-logo=""https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png" group-title="BANGLA MOVIE 🎥",JALSHA MOVIE HD TATA 💦 MOZID AHMED 💦
 http://103.229.254.25:7001/play/a0dt/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/sJytpPV9/Sananda.jpg" group-title="BANGLA MOVIE 🎥",SANANDA MOVIE 🎥 💦 MOZID AHMED 💦
-http://sananda.bengaldigital.live/Sananda/index.m3u8
+https://live.sanandatelevision.in/sananda/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Sun_Bangla_Logo.png" group-title="Grope Name", SUN BANGLA TV 💦 MOZID AHMED 💦
 http://203.18.159.115/SUNBANGLAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739906659479.png" group-title="Grope Name", SONY ATTH 💦 MOZID AHMED 💦
@@ -241,8 +241,6 @@ http://103.229.254.25:7001/play/a0eo/index.m3u8
 https://padmaonline.duckdns.org:8088/SamiTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D88bCrT/SDCV-TV.jpg" group-title="Grope Name", SDCV TV 💦 MOZID AHMED 💦
 https://padmaonline.duckdns.org:8088/sdcv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hRWLS0Sz/images-2026-01-18-T131125-299.jpg" group-title="Grope Name", SANANDA TV 💦 MOZID AHMED 💦
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QvzG3Lry/SNB-CINEMA.png" group-title=" MOVIE 🎥", SNB CINEMA 💦 MOZID AHMED 💦
 https://live-stream.utkalbongo.com/utkalbongo/stream11/hls/snbcinemalive.m3u8
 #EXTINF:-1 tvg-logo="https://journal24bd.com/wp-content/uploads/2021/04/2.png" group-title="Grope Name", JOURNAL 24 TV 💦 MOZID AHMED 💦
