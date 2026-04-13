@@ -208,6 +208,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/5gprrg3T/Discovery.png" group-title="Grope Name", DISCOVERY TV 📡 MOZID AHMED ✔️
 http://172.16.29.2:8090/hls/DiscoveryHD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5gprrg3T/Discovery.png" group-title="Grope Name", DISCOVERY BANGLA TV 📡 MOZID AHMED ✔️
+http://103.180.212.191:3500/live/573.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rqSNf1t/National-Geographic.png" group-title="Grope Name", NATIONAL GEOGRAPHIC 💦 MOZID AHMED 💦
 http://172.16.29.2:8090/hls/NatGeoWild.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title=" 🎥", TRAVELXP BANGLA 💦 MOZID AHMED 💦
