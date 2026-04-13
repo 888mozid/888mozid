@@ -250,4 +250,6 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", R TV BANGLA 🎶 MOZID AHMED 🎶
 http://202.78.232.181:8090/playontv/playon@admin/90
+#EXTINF:-1 tvg-logo="Logo Link" group-title="LOCAL CHANNEL 🎥", P TV BANGLA 🌼 MOZID AHMED 🌼
+http://103.121.61.218/tmp_hls/1ecfb463472ec9115b10c292ef8bc986/index.m3u8
 
