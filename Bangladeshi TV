@@ -309,8 +309,8 @@ http://103.229.254.25:7001/play/a035/index.m3u8
 http://172.16.29.2:8090/hls/ZeeTVHD.m3u8
 #EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsg.png" group-title="HINDI MOVIE 🎥", STAR GOLD 💦 MOZID AHMED 💦
 http://198.195.239.50:8095/StarGold/index.m3u8
-#EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsg.png" group-title="HINDI MOVIE 🎥", STAR GOLD HD TaTa 💦 MOZID AHMED 💦
-http://103.229.254.25:7001/play/a0dd/index.m3u8
+#EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm.png" group-title="HINDI MOVIE 🎥", SONY MAX HD 💦 MOZID AHMED 💦
+http://198.195.239.50:8095/SonyMAX/index.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="HINDI MOVIE", STAR GOLD 2 HD 💦 MOZID AHMED 💦
 http://103.229.254.25:7001/play/a0d0/index.m3u8
 #EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsgs.png" group-title="HINDI MOVIE 🎥", STAR GOLD SELECT 💦 MOZID AHMED 💦
@@ -325,18 +325,15 @@ http://103.229.254.25:7001/play/a07x/index.m3u8
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="Grope Name", STAR MOVIES SEL HD 💦 MOZID AHMED 💦
 http://103.229.254.25:7001/play/a02v/index.m3u8
-#EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsp.png" group-title="Grope Name", STAR PLUS HD 💦 MOZID AHMED 💦
-http://103.229.254.25:7001/play/a09z/index.m3u8
-#EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm.png" group-title="HINDI MOVIE 🎥", SONY MAX HD 💦 MOZID AHMED 💦
-http://198.195.239.50:8095/SonyMAX/index.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVE 🎥", SONY MAX 💦 MOZID AHMED 💦
-http://toffee.sm-monirulislam-exp.workers.dev/live.php?id=b6192dbff21b&e=.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/41.png" group-title="ENGLISH MOVIE", SONY PIX 💦 MOZID AHMED 💦
 http://103.229.254.25:7001/play/a02u/index.m3u8
+#EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsp.png" group-title="Grope Name", STAR PLUS HD 💦 MOZID AHMED 💦
+http://103.229.254.25:7001/play/a09z/index.m3u8
+
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVE 🎥", SONY MAX 💦 MOZID AHMED 💦
+http://toffee.sm-monirulislam-exp.workers.dev/live.php?id=b6192dbff21b&e=.m3u8
 #EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/inhse.png" group-title="Grope Name", SONY HD 💦 MOZID AHMED 
 http://172.16.29.2:8090/hls/SonyHD.m3u8
-#EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/inhse.png" group-title="Grope Name", SONY HD TaTa 💦 MOZID AHMED 
-http://103.229.254.25:7001/play/a0eb/index.m3u8
 
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", SANGEET BHOJPURI 🎶 MOZID AHMED 🎶
 https://cdn-4.pishow.tv/live/1293/master.m3u8
