@@ -324,6 +324,8 @@ http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 http://103.229.254.25:7001/play/a02v/index.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/41.png" group-title="ENGLISH MOVIE", SONY PIX 💦 MOZID AHMED 💦
 http://180.94.28.28:8097/SONY-PIX/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", MOVIES NOW 💦 MOZID AHMED 💦
+http://180.94.28.28:8097/MOVIES-NOW/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsp.png" group-title="Grope Name", STAR PLUS HD 💦 MOZID AHMED 💦
 http://103.229.254.25:7001/play/a09z/index.m3u8
 
