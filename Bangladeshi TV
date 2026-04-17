@@ -294,10 +294,6 @@ https://epiconvh.akamaized.net/live/filamchi/master.m3u8
 http://103.229.254.25:7001/play/a02s/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", MAX MOVIE 💦 MOZID AHMED 💦
 http://103.229.254.25:7001/play/a0et/index.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", ZEE CINEMA HD 💦 MOZID AHMED 💦
-http://172.16.29.2:8090/hls/ZeeCinemaHD.m3u8
-#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", ZEE CINEMA HD TATA 💦 MOZID AHMED 💦
-http://103.229.254.25:7001/play/a0c2/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/69.png" group-title="HINDI MOVIE 🎥", ZEE CAFE HD 💦 MOZID AHMED 💦
 http://103.229.254.25:7001/play/a0cx/index.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", ZEE ANMOL CINEMA 💦 MOZID AHMED 💦
@@ -309,6 +305,8 @@ http://172.16.29.2:8090/hls/ZeeTVHD.m3u8
 #EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsg.png" group-title="HINDI MOVIE 🎥", STAR GOLD 💦 MOZID AHMED 💦
 http://198.195.239.50:8095/StarGold/index.m3u8
 #EXTINF:-1 tvg-logo="https://fcnchbd.xyz/iptv/logo/inhsm.png" group-title="HINDI MOVIE 🎥", SONY MAX HD 💦 MOZID AHMED 💦
+#EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", ZEE CINEMA HD 💦 MOZID AHMED 💦
+http://180.94.28.28:8097/ZEE-CINEMA/index.fmp4.m3u8
 http://198.195.239.50:8095/SonyMAX/index.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="HINDI MOVIE", STAR GOLD 2 HD 💦 MOZID AHMED 💦
 http://103.229.254.25:7001/play/a0d0/index.m3u8
