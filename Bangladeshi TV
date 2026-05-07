@@ -268,7 +268,7 @@ http://203.18.159.115/AXNHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", BHOJPURI CINEMA 💦 MOZID AHMED 💦
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", B4U BHOJPURI 💦 MOZID AHMED 💦
-https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+http://103.175.73.12:8080/live/174/174_0.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", B4U MOVIE 💦 MOZID AHMED 💦
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="HINDI MOVIE 🎥", B4U KADAK 💦 MOZID AHMED 
