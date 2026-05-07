@@ -389,7 +389,7 @@ http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", MASTI MUSIC 🎶 MOZID AHMED 🎶
 http://103.229.254.25:7001/play/a07q/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="MUSIC 🎵", MUSIC INDIA 🎶 MOZID AHMED 🎶
-https://cdn-2.pishow.tv/live/226/master.m3u8
+http://103.175.73.12:8080/live/158/158_0.m3u8
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", SAGA MUSIC 🎶 MOZID AHMED 🎶
 #EXTINF:-1 tvg-logo="Logo Link" group-title="MUSIC 🎵", O MUSIC 🎶 MOZID AHMED 🎶
 https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8
